@@ -11,3 +11,10 @@ Using the index.html file, we can open up our webpage. Once the webpage is open 
 
 ## Summary
 
+### Drawback of New Design
+- One drawback of the new design is that removing the filter button gives a less intuitive design on how to filter the data properly. 
+
+### Suggestions for Improvement
+- One suggestion for improvement would be to allow a dropdown on the filter. This is so that you can see a quick look at some of the suggestions 
+- Another suggestion would be to employ a summary table of the UFO sighting statistics. For example, you could have number of sightings that day or year, or how many sightings occur in which states, etc. This would allow the reader to infer patterns in the data quickly. 
+
