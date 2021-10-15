@@ -1,6 +1,6 @@
 # UFO
 
-## Overview of Project
+## Overview 
 We are helping to revamp Dana's UFO sightings webpage to provide a deeper analysis to allow users to filter on many different variables at the same time. The table filters we will be adding are city, country, state & shape, which is already on top of the date filter we currently have. 
 
 ## Results
